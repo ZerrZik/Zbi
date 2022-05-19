@@ -1,16 +1,26 @@
-### <h1 align="center"> Hi there 👋 I'm Zbignev Tvardauskas </h1>
+###Hi there 👋 I'm Zbignev,
 
-<!--
-**Ztva/Ztva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a student of PHP and i am on my way to become PHP Developer!
+Everything starts with small steps, right? :relaxed:
 
-Here are some ideas to get you started:
+"You need to be content with small steps. That’s all life is. Small steps that you take every day so when you look back down the road it all adds up and you know you covered some distance. " - Katie Kacvinsky
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Web Development, mainly Laravel and Javascript.
+
+- ⚡ Funny joke:
+
+Q: 0 is false and 1 is true, right?
+A: 1.
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt"php" width="25" height="25" />
+          
+
+
