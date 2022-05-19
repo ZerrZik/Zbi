@@ -9,8 +9,8 @@ Everything starts with small steps, right? :relaxed:
 
 - ⚡ Funny joke:
 
-Q: 0 is false and 1 is true, right?
-A: 1.
+<p> Q: 0 is false and 1 is true, right? </p>
+<p> A: 1. </p>
 
 ### Languages and Tools:
 
