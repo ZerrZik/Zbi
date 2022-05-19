@@ -5,9 +5,8 @@ Everything starts with small steps, right? :relaxed:
 
 "You need to be content with small steps. That’s all life is. Small steps that you take every day so when you look back down the road it all adds up and you know you covered some distance. " - Katie Kacvinsky
 
-- 🌱 I’m currently learning Web Development, mainly Laravel and Javascript.
-
-
+🌱 I’m currently learning Web Development, mainly Laravel and Javascript.
+<br>
 ⚡ Funny joke:
 <p><b> Q: 0 is false and 1 is true, right? </b></p>
 <p><b> A: 1. </b></p>
