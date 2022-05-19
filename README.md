@@ -7,8 +7,7 @@ Everything starts with small steps, right? :relaxed:
 
 - 🌱 I’m currently learning Web Development, mainly Laravel and Javascript.
 
-- ⚡ Funny joke:
-
+⚡ Funny joke:
 <p> Q: 0 is false and 1 is true, right? </p>
 <p> A: 1. </p>
 
@@ -19,13 +18,3 @@ Everything starts with small steps, right? :relaxed:
 ### My LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/zbignev-tvardauskas-468281175/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a>
-          
-
-
-          
-          
-          
-          
-          
-
-
