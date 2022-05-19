@@ -7,6 +7,7 @@ Everything starts with small steps, right? :relaxed:
 
 - 🌱 I’m currently learning Web Development, mainly Laravel and Javascript.
 
+
 ⚡ Funny joke:
 <p><b> Q: 0 is false and 1 is true, right? </b></p>
 <p><b> A: 1. </b></p>
