@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zbignev,
 
-Welcome to my profile! I recently finished intensive 7month WEB DEVELOPMENT course at BIT (Baltic Institute of Technologies) as my first steps into Front-End and Back-End world. 
+Welcome to my profile! Recently finished intensive 7month WEB DEVELOPMENT course at BIT (Baltic Institute of Technologies) as my first steps into Front-End and Back-End world. 
 Everything starts with small steps, right? :relaxed:
 
 "You need to be content with small steps. That’s all life is. Small steps that you take every day so when you look back down the road it all adds up and you know you covered some distance. " - Katie Kacvinsky
